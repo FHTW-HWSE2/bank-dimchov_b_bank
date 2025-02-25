@@ -34,7 +34,7 @@ end note
 @endgantt
 ```
 
-#### US1: name
+#### US1: The system must allow to create a new bank account.
 
 - Design
 - Update design document

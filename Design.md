@@ -48,7 +48,7 @@ This document describes the architecture and implementation considerations for p
 
 #### UC1: Title
 
-As a __xxx__ I want to __yyy__ so that __zzz__.
+As a __costumer__ I want to __create a account__ so that __zzz__.
 
 __Preconditions:__
 
