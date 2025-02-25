@@ -69,9 +69,51 @@ __Remarks:__
 > anything else we should think of when implementing that?
 > any dependencies?
 
-#### UC2: ...
+#### UC2: Title
 
-> add more UC as needed
+As a __xxx__ I want to __yyy__ so that __zzz__.
+
+__Preconditions:__
+
+> are there any?
+
+__Acceptance 1:__
+
+> good case
+> add more as needed
+
+__Acceptance 2:__
+
+> what happens on error?
+> add more as needed
+
+__Remarks:__
+
+> anything else we should think of when implementing that?
+> any dependencies?
+
+#### UC3: Title
+
+As a __xxx__ I want to __yyy__ so that __zzz__.
+
+__Preconditions:__
+
+> are there any?
+
+__Acceptance 1:__
+
+> good case
+> add more as needed
+
+__Acceptance 2:__
+
+> what happens on error?
+> add more as needed
+
+__Remarks:__
+
+> anything else we should think of when implementing that?
+> any dependencies?
 
 
 ### User Interface
