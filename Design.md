@@ -46,7 +46,7 @@ This document describes the architecture and implementation considerations for p
 
 ### Domain Use Cases / User Stories
 
-#### UC1: Title
+#### UC1: The system must allow to create a new bank account.
 
 As a __costumer__ I want to __create a account__ so that __zzz__.
 
