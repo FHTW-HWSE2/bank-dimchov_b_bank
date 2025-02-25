@@ -1,8 +1,8 @@
-# Project __XXX__
+# Project Bank
 
 ## 1. Scope
 
-This is either done here or in the Design document.
+This is either done here or in the Design document. (wuerde ich hier machen)
 
 ### Project Team
 
