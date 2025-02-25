@@ -1,6 +1,6 @@
-# Project xxx
+# Project Bank
 
-This document describes the architecture and implementation considerations for project __XXX__.
+This document describes the architecture and implementation considerations for project __Bank__.
 
 ## 1. Scope
 
@@ -19,6 +19,8 @@ This document describes the architecture and implementation considerations for p
 > if there are unclear requirements, you can make assumptions, but you have to clarify with the customer. Add them to the paragraph below.
 
 ### Quality Requirements
+>
+>
 
 ### Infrastructure
 
