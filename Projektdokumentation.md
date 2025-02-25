@@ -6,7 +6,7 @@ This is either done here or in the Design document.
 
 ### Project Team
 
-> add your names here
+> Athens Marie, Kilic Dilara, Lapitan Clariza, Sakkal Mohamad, Sarkhosh Zulfaghar
 > maybe find a fancy team name
 
 ## 2. Project Plan
@@ -52,7 +52,59 @@ end note
 
 #### US2: name
 
-> add as needed
+- Design
+- Update design document
+- Implementation
+- Implementation
+- Test Good Case
+- Test fail 1
+- Test fail 2
+- ...
+- Update project document
+- implement integration tests
+- do presentation of US
+
+#### US3: name
+
+- Design
+- Update design document
+- Implementation
+- Implementation
+- Test Good Case
+- Test fail 1
+- Test fail 2
+- ...
+- Update project document
+- implement integration tests
+- do presentation of US
+
+##### US4: name
+
+- Design
+- Update design document
+- Implementation
+- Implementation
+- Test Good Case
+- Test fail 1
+- Test fail 2
+- ...
+- Update project document
+- implement integration tests
+- do presentation of US
+
+##### US5: name 
+
+- Design
+- Update design document
+- Implementation
+- Implementation
+- Test Good Case
+- Test fail 1
+- Test fail 2
+- ...
+- Update project document
+- implement integration tests
+- do presentation of US
 
 ## 3. Project Log
 
