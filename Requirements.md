@@ -16,9 +16,9 @@
     A single person can have multiple accounts, including different types (e.g. standard, with overdraft or with an initial balance).
 
 ## 2. Person Identification
-    The identification of the person opening an account must include:
-    - Full **Name**
-    - **Social Security Number (SSN)** 
+- The identification of the person opening an account must include:
+    - Full Name
+    - Social Security Number (SSN)
 
 ## 3. Account Operations
 - **CRUD Operations**:  
@@ -41,11 +41,10 @@
     - The system must allow money transfers between accounts within the same bank.
 
 - **Currency**:  
-    The system will support only one currency (dollar) for all transactions.
+    - The system will support only one currency (dollar) for all transactions.
 
 ## 5. Reporting
-- **Account Reports**:  
-    The system must generate reports that include:
+- The system must generate reports that include:
     - Total amount of money in all accounts.
     - Number of active accounts.
     - Detailed information for each account, including balance, account type, overdraft limits and transaction history.
